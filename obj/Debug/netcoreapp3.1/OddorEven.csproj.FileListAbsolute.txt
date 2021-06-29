@@ -1,0 +1,11 @@
+C:\Users\Jake\source\repos\OddorEven\bin\Debug\netcoreapp3.1\OddorEven.exe
+C:\Users\Jake\source\repos\OddorEven\bin\Debug\netcoreapp3.1\OddorEven.deps.json
+C:\Users\Jake\source\repos\OddorEven\bin\Debug\netcoreapp3.1\OddorEven.runtimeconfig.json
+C:\Users\Jake\source\repos\OddorEven\bin\Debug\netcoreapp3.1\OddorEven.runtimeconfig.dev.json
+C:\Users\Jake\source\repos\OddorEven\bin\Debug\netcoreapp3.1\OddorEven.dll
+C:\Users\Jake\source\repos\OddorEven\bin\Debug\netcoreapp3.1\OddorEven.pdb
+C:\Users\Jake\source\repos\OddorEven\obj\Debug\netcoreapp3.1\OddorEven.csprojAssemblyReference.cache
+C:\Users\Jake\source\repos\OddorEven\obj\Debug\netcoreapp3.1\OddorEven.AssemblyInfoInputs.cache
+C:\Users\Jake\source\repos\OddorEven\obj\Debug\netcoreapp3.1\OddorEven.AssemblyInfo.cs
+C:\Users\Jake\source\repos\OddorEven\obj\Debug\netcoreapp3.1\OddorEven.dll
+C:\Users\Jake\source\repos\OddorEven\obj\Debug\netcoreapp3.1\OddorEven.pdb
